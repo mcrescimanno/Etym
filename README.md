@@ -4,7 +4,7 @@
 (Powered by [The Online Etymology Dictionary](http://www.etymonline.com))
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ###Screen Shots
-<div>
+<div style="display: flex; flex-direction: row">
   <img src='./Pics/Etym-Search.png' alt='Search Page'/>
   <img src='./Pics/Etym-Results.png' alt='Results Page'/>
   <img src='./Pics/Etym-Term.png' alt='Word Page'/>
