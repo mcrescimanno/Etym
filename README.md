@@ -5,8 +5,10 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ###Screen Shots
 <div style="overflow: hidden;">
-  <img src='./Pics/Etym-Search.png' alt='Search Page'/>
-  <img src='./Pics/Etym-Results.png' alt='Results Page'/>
-  <img src='./Pics/Etym-Term.png' alt='Word Page'/>
+  <div style="overflow-x: visible; overflow-y: hidden; whitespace: nowrap;">
+    <img style="display: inline-block;" src='./Pics/Etym-Search.png' alt='Search Page'/>
+    <img style="display: inline-block;" src='./Pics/Etym-Results.png' alt='Results Page'/>
+    <img style="display: inline-block;" src='./Pics/Etym-Term.png' alt='Word Page'/>
+  </div>
 </div>
 
