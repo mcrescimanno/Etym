@@ -5,8 +5,8 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ###Screen Shots
 <div>
-![Search Page](./Pics/Etym-Search.png)
-![Results Page](./Pics/Etym-Results.png)
-![Word Page](./Pics/Etym-Term.png)
+  <img src='./Pics/Etym-Search.png' alt='Search Page'/>
+  <img src='./Pics/Etym-Results.png' alt='Results Page'/>
+  <img src='./Pics/Etym-Term.png' alt='Word Page'/>
 </div>
 
