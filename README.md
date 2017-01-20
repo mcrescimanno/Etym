@@ -6,4 +6,6 @@
 ###Screen Shots
 
 ![Search Page](./Pics/Etym-Search.png)
+![Results Page](./Pics/Etym-Results.png)
+![Word Page](./Pics/Etym-Term.png)
 
