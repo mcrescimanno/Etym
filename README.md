@@ -12,3 +12,4 @@
   </div>
 </div>
 
+With Etym at your fingertips, you can finally scratch your word-origin itch in just a matter of seconds. Its as simple as a Google Search! 
