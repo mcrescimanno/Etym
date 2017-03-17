@@ -3,7 +3,7 @@
 ### An iPhone App for Learning Word Origins
 (Powered by [The Online Etymology Dictionary](http://www.etymonline.com))
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-###Screen Shots
+### Screen Shots
 <div style="overflow: hidden;">
   <div style="overflow-x: visible; overflow-y: hidden; whitespace: nowrap;">
     <img style="display: inline-block;" src='./Pics/Etym-Search.png' alt='Search Page'/>
